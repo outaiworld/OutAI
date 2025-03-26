@@ -1,7 +1,7 @@
 # OutAI
 
 <div align="center">
-  <img src="assets/logo.png" alt="OutAI Logo" width="200"/>
+  <img src="assets/logo.svg" alt="OutAI Logo" width="200"/>
   <p>
     <strong>Creator Data Sovereignty Infrastructure</strong>
   </p>
@@ -18,51 +18,49 @@ OutAI is an innovative platform built on the Solana blockchain, designed to addr
 
 ## Features
 
-- **Content Protection**: Selective opt-out from AI training platforms
-- **Content Control**: Precise management of AI usage permissions
-- **Monetization**: Fair compensation through licensing marketplace
-- **Blockchain Verification**: Immutable proof of content rights
-- **Smart Contract Licensing**: Automated licensing and royalty distribution
+* **Content Protection**: Selective opt-out from AI training platforms
+* **Content Control**: Precise management of AI usage permissions
+* **Monetization**: Fair compensation through licensing marketplace
+* **Blockchain Verification**: Immutable proof of content rights
+* **Smart Contract Licensing**: Automated licensing and royalty distribution
 
 ## Technical Architecture
 
 ### Core Components
 
-1. **Content Control Hub**
-   - Permission Management System
-   - Platform Integration
-   - Blockchain Verification
-   - Analytics Dashboard
-
-2. **Creator Nucleus**
-   - Content Registration
-   - Digital Watermarking
-   - Usage Monitoring
-   - Analytics Dashboard
-
-3. **License Book**
-   - Smart Contract Licensing
-   - Customizable Permissions
-   - Alliance Negotiation
-   - Royalty Distribution
+1. **Content Control Hub**  
+   * Permission Management System  
+   * Platform Integration  
+   * Blockchain Verification  
+   * Analytics Dashboard
+2. **Creator Nucleus**  
+   * Content Registration  
+   * Digital Watermarking  
+   * Usage Monitoring  
+   * Analytics Dashboard
+3. **License Book**  
+   * Smart Contract Licensing  
+   * Customizable Permissions  
+   * Alliance Negotiation  
+   * Royalty Distribution
 
 ### Technology Stack
 
-- **Blockchain**: Solana
-- **Smart Contracts**: Rust
-- **Frontend**: React/TypeScript
-- **Backend**: Node.js
-- **Storage**: Arweave
-- **API**: GraphQL
+* **Blockchain**: Solana
+* **Smart Contracts**: Rust
+* **Frontend**: React/TypeScript
+* **Backend**: Node.js
+* **Storage**: Arweave
+* **API**: GraphQL
 
 ## Getting Started
 
 ### Prerequisites
 
-- Node.js >= 16
-- Rust >= 1.70
-- Solana CLI
-- Anchor Framework
+* Node.js >= 16
+* Rust >= 1.70
+* Solana CLI
+* Anchor Framework
 
 ### Installation
 
@@ -106,8 +104,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Token Information
 
-- Token Name: OutAI
-- Token Symbol: $OUT
-- Total Supply: 1,000,000,000
-- Platform: Solana
-- Launch Platform: pump.fun 
+* Token Name: OutAI
+* Token Symbol: $OUT
+* Total Supply: 1,000,000,000
+* Platform: Solana
+* Launch Platform: pump.fun 
